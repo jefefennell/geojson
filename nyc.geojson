@@ -8,7 +8,7 @@
        "coordinates":  [ -74.013379,40.712743 ]
     },
     "properties": {
-    "Building Name":"TWO World Trade Center",
+    "BuildingName":"TWO World Trade Center",
     "Address":"285 Fulton St, New York, NY 10007",
     "Number of Floors":94,
     "Owner of Building":"Port Authority of New York and New Jersey (managed with The Durst Organization)",
@@ -22,7 +22,7 @@
        "coordinates":  [ -73.9819,40.7651 ]
     },
     "properties": {
-    "Building Name":"Central Park Tower",
+    "BuildingName":"Central Park Tower",
     "Address":"225 W 57th St, New York, NY 10019",
     "Number of Floors":98,
     "Owner of Building":"Extell Development Company (with Shanghai Municipal Investment Group)",
@@ -36,7 +36,7 @@
        "coordinates":  [ -73.9796,40.7649 ]
     },
     "properties": {
-    "Building Name":"111 West 57th Street (Steinway Tower)",
+    "BuildingName":"111 West 57th Street (Steinway Tower)",
     "Address":"111 W 57th St, New York, NY 10019",
     "Number of Floors":84,
     "Owner of Building":"JDS Development Group & Property Markets Group (condominium)",
@@ -50,7 +50,7 @@
        "coordinates":  [ -73.9772,40.7527 ]
     },
     "properties": {
-    "Building Name":"One Vanderbilt",
+    "BuildingName":"One Vanderbilt",
     "Address":"1 Vanderbilt Ave, New York, NY 10017",
     "Number of Floors":59,
     "Owner of Building":"SL Green Realty (with partners: NPS, Hines, Mori Building)",
@@ -64,7 +64,7 @@
        "coordinates":  [ -73.9718,40.7616 ]
     },
     "properties": {
-    "Building Name":"432 Park Avenue",
+    "BuildingName":"432 Park Avenue",
     "Address":"432 Park Ave, New York, NY 10022",
     "Number of Floors":85,
     "Owner of Building":"CIM Group & Macklowe Properties (condominium association)",
@@ -78,7 +78,7 @@
        "coordinates":  [ -73.973,40.754 ]
     },
     "properties": {
-    "Building Name":"270 Park Avenue (JPMorgan Chase HQ)",
+    "BuildingName":"270 Park Avenue (JPMorgan Chase HQ)",
     "Address":"270 Park Ave, New York, NY 10017",
     "Number of Floors":70,
     "Owner of Building":"JPMorgan Chase & Co.",
@@ -92,7 +92,7 @@
        "coordinates":  [ -74.0008,40.7541 ]
     },
     "properties": {
-    "Building Name":"30 Hudson Yards",
+    "BuildingName":"30 Hudson Yards",
     "Address":"500 W 33rd St, New York, NY 10001",
     "Number of Floors":103,
     "Owner of Building":"Related Companies & Oxford Properties",
@@ -106,7 +106,7 @@
        "coordinates":  [ -73.985428,40.748817 ]
     },
     "properties": {
-    "Building Name":"Empire State Building",
+    "BuildingName":"Empire State Building",
     "Address":"350 5th Ave, New York, NY 10118",
     "Number of Floors":102,
     "Owner of Building":"Empire State Realty Trust",
@@ -120,7 +120,7 @@
        "coordinates":  [ -73.9846,40.7542 ]
     },
     "properties": {
-    "Building Name":"Bank of America Tower (One Bryant Park)",
+    "BuildingName":"Bank of America Tower (One Bryant Park)",
     "Address":"1111 Avenue of the Americas, New York, NY 10036",
     "Number of Floors":55,
     "Owner of Building":"The Durst Organization (Bank of America is anchor tenant)",
@@ -134,7 +134,7 @@
        "coordinates":  [ -74.011608,40.710923 ]
     },
     "properties": {
-    "Building Name":"3 World Trade Center",
+    "BuildingName":"3 World Trade Center",
     "Address":"175 Greenwich St, New York, NY 10007",
     "Number of Floors":80,
     "Owner of Building":"Port Authority of New York and New Jersey (developer: Silverstein Properties)",
@@ -148,7 +148,7 @@
        "coordinates":  [ -73.9864,40.6938 ]
     },
     "properties": {
-    "Building Name":"The Brooklyn Tower (9 DeKalb)",
+    "BuildingName":"The Brooklyn Tower (9 DeKalb)",
     "Address":"9 DeKalb Ave, Brooklyn, NY 11201",
     "Number of Floors":74,
     "Owner of Building":"JDS Development Group (recent control of portions by Silverstein Properties reported)",
@@ -162,7 +162,7 @@
        "coordinates":  [ -73.9777,40.7619 ]
     },
     "properties": {
-    "Building Name":"53W53 (53 West 53rd Street)",
+    "BuildingName":"53W53 (53 West 53rd Street)",
     "Address":"53 W 53rd St, New York, NY 10019",
     "Number of Floors":77,
     "Owner of Building":"Condominium; sponsor: Hines & Pontiac Land Group",
